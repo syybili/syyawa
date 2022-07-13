@@ -1,0 +1,98 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://pnrtscr.com/j8bmvx",
+            "path": "index.html",
+            "saved": true,
+            "size": 6517,
+            "children": [
+                {
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;900&display=swap",
+                    "saved": false
+                },
+                {
+                    "url": "https://pnrtscr.com/lightshot.png",
+                    "path": "img/lightshot.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pnrtscr.com/video.mp4",
+                    "path": "media/video.mp4",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "pnrtscr-com-bu1pcycs",
+    "info": {
+        "remark": [],
+        "title": "Screenshot by Lightshot",
+        "domain": "pnrtscr.com",
+        "origin": "https://pnrtscr.com",
+        "ip": "104.21.233.217",
+        "main": "index.html",
+        "url": "https://pnrtscr.com/j8bmvx",
+        "totalSize": "6.52 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://pnrtscr.com/j8bmvx",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://pnrtscr.com/j8bmvx",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 27 May 2022 04:06:59 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "x-xss-protection": "1; mode=block",
+                "x-content-type-options": "nosniff",
+                "referrer-policy": "no-referrer-when-downgrade",
+                "content-security-policy": "default-src 'self' http: https: data: blob: 'unsafe-inline'; frame-ancestors 'self';",
+                "strict-transport-security": "max-age=31536000; includeSubDomains",
+                "cache-control": "max-age=14400",
+                "cf-cache-status": "HIT",
+                "age": "4373",
+                "last-modified": "Fri, 27 May 2022 02:54:06 GMT",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AIBMOpDe7knnoJO%2B2%2FYVbO9Obs%2BFKhYC6FmbqI4YB1TNJzuM7yO%2FCJJv7cTabNuPzyEdnrKxp2OHE8%2B0lztHlWWEKqBcAJHwbmRjIP46dRHMf%2F6CwdNhTAExlvFuFg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "711be18f5e3d1d6b-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2022-05-27T04:06:59.618Z",
+            "end": "2022-05-27T04:07:00.706Z"
+        }
+    },
+    "options": {
+        "url": "https://pnrtscr.com/j8bmvx",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
